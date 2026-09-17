@@ -34,8 +34,8 @@ The following EXTRA features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 ### GIF Demo
+<img width="637" height="906" alt="Gif4Project102" src="https://github.com/user-attachments/assets/8204907f-275c-4777-981c-75ac19dfbdee" />
 
-Gif4Project102.gif
 
 ### Loom Video
 
