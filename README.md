@@ -1,55 +1,51 @@
-<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
-
 # AND101 Project 2 - Kotlin Debug-a-thon
 
-Submitted by: **Your Name Here**
+Submitted by: **Seth Servin**
 
-Time spent: 3 hours spent in total
+Time spent: **3** hours spent in total
 
 ## Summary
 
-Android Kotlin Debugging is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+Android Kotlin Debugging is an Android app that was intentionally filled with bugs. Through debugging and fixing each activity, I learned how to identify Kotlin errors, use Android Studio's debugging tools, and restore the intended functionality of the application.
 
 If I had to describe this project in three (3) emojis, they would be: 😊 🏫 📱
 
 ## Application Features
 
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
-
 The following REQUIRED features are completed:
 
 - [x] 👋 Debug and fix navigation to Hello World activity
 - [x] 4️⃣ Debug and fix Number Sum (2 + 2) activity
-- [x] 📅 Debug and fix Current Day activity 
+- [x] 📅 Debug and fix Current Day activity
 - [x] 🌈 Debug and fix behavior of Random Color activity
 - [x] 🗒️ Debug and fix Print List activity
 - [x] 💯 Debug and fix Favorite Number activity
 
 The following STRETCH features are implemented:
 
-- [x] TODO
+- [x] Successfully debugged and fixed all application activities
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [ ] None
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='<img width="637" height="906" alt="Gif4Project102" src="https://github.com/user-attachments/assets/12af5928-eaa2-421d-bf23-c9bb80799192" />
-' title='https://www.loom.com/share/aad11076ea504b4bb6e231f31909e99d' width='' alt='Video Demo' />
+### GIF Demo
 
-GIF created with ScreentoGIF
+Gif4Project102.gif
 
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
+### Loom Video
+
+[Watch the Loom Demo](https://www.loom.com/share/aad11076ea504b4bb6e231f31909e99d)
+
+GIF created with ScreenToGif
 
 ## Notes
 
-I learned how to debugg and use the tools avialibel in IDE, I learned alot from this project.
+I learned how to use Android Studio debugging tools to track down and fix errors in Kotlin code. This project helped me better understand Logcat, breakpoints, and troubleshooting techniques used in Android development.
 
 ## License
 
